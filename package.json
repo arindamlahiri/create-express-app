@@ -1,0 +1,43 @@
+{
+  "name": "@arindamlahiri/create-express-app",
+  "version": "1.0.0",
+  "description": "A CLI tool to get boilerplate code for a REST api using express",
+  "main": "src/index.js",
+  "bin": {
+    "@arindamlahiri/create-express-app": "src/index.js",
+    "create-express-app": "src/index.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "create-express-app"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arindamlahiri/create-react-app.git"
+  },
+  "files": [
+    "bin/",
+    "src/",
+    "boilerplate/"
+  ],
+  "author": "Arindam Lahiri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arindamlahiri/create-react-app/issues"
+  },
+  "homepage": "https://github.com/arindamlahiri/create-react-app#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "esm": "^3.2.25",
+    "execa": "^4.0.3",
+    "listr": "^0.14.3",
+    "ncp": "^2.0.0",
+    "pkg-install": "^1.0.0"
+  }
+}
