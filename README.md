@@ -2,7 +2,7 @@ A CLI tool to get boilerplate code for a REST api using express
 
 ## Installation & Usage
 
-Run the commands given below in a new folder where you want to start your project.
+Run any one of the commands given below in a new folder where you want to start your project.
 
 ```bash
 npm init @arindamlahiri/express-app
