@@ -19,7 +19,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arindamlahiri/create-react-app.git"
+    "url": "git+https://github.com/arindamlahiri/create-express-app.git"
   },
   "files": [
     "bin/",
@@ -29,9 +29,9 @@
   "author": "Arindam Lahiri",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/arindamlahiri/create-react-app/issues"
+    "url": "https://github.com/arindamlahiri/create-express-app/issues"
   },
-  "homepage": "https://github.com/arindamlahiri/create-react-app#readme",
+  "homepage": "https://github.com/arindamlahiri/create-express-app#readme",
   "dependencies": {
     "chalk": "^4.1.0",
     "esm": "^3.2.25",
