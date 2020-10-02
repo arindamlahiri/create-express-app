@@ -12,6 +12,7 @@ npx @arindamlahiri/create-express-app
 npm install -g @arindamlahiri/create-express-app
 create-express-app
 ```
+Then run `npm start` to start the express server.
 
 ## License
 
