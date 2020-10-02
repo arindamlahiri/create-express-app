@@ -1,6 +1,6 @@
 {
   "name": "@arindamlahiri/create-express-app",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A CLI tool to get boilerplate code for a REST api using express",
   "main": "src/index.js",
   "bin": {
